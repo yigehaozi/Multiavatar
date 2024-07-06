@@ -9,5 +9,4 @@
 如果你想使用这个插件，那你必须要到 https://multiavatar.com/accountqu  注册一个账号这样你就会得到一个APi Key随后就可以配置使用它
 <img width="1020" alt="image" src="https://github.com/yigehaozi/Multiavatar/assets/25971435/71540489-105a-4b7a-8094-e27375c0994b">
 
-重要的话说三遍！重要的话说三遍！重要的话说三遍！
-目前这个插件是不完整的，因为我是初学者。我网站用的是zibll主题后台头像虽然替换成功了，但前台头像还是乜有替换成功。我同时希望得到你的帮助共通构建这个插件
+<img width="2198" alt="image" src="https://github.com/yigehaozi/Multiavatar/assets/25971435/a001fbc8-fc3d-4cf6-9071-2aa8d93d553e">
